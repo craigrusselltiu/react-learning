@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/simple-cart/static/css/main.2cce8147.chunk.css",
+    "main.js": "/simple-cart/static/js/main.67348233.chunk.js",
+    "main.js.map": "/simple-cart/static/js/main.67348233.chunk.js.map",
+    "runtime~main.js": "/simple-cart/static/js/runtime~main.8006e4b9.js",
+    "runtime~main.js.map": "/simple-cart/static/js/runtime~main.8006e4b9.js.map",
+    "static/css/2.f65acde2.chunk.css": "/simple-cart/static/css/2.f65acde2.chunk.css",
+    "static/js/2.2792a3c4.chunk.js": "/simple-cart/static/js/2.2792a3c4.chunk.js",
+    "static/js/2.2792a3c4.chunk.js.map": "/simple-cart/static/js/2.2792a3c4.chunk.js.map",
+    "index.html": "/simple-cart/index.html",
+    "precache-manifest.b2906b02b6bbffaa3c170d8aea7e708b.js": "/simple-cart/precache-manifest.b2906b02b6bbffaa3c170d8aea7e708b.js",
+    "service-worker.js": "/simple-cart/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/simple-cart/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/simple-cart/static/css/main.2cce8147.chunk.css.map"
+  }
+}
